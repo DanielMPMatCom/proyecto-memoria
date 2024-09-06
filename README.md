@@ -1,5 +1,7 @@
 # proyecto-memoria
 
+![Memory](memory.jpeg)
+
 Implementa las estrategias estudiadas en clase sobre virtualización de la
 memoria.
 
